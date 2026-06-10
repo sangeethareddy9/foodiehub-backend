@@ -20,12 +20,7 @@
       "calories": "650 kcal",
       "origin": "Hyderabad",
       "famousFor": "Spicy rice and chicken",
-      "ingredients": [
-        "Rice",
-        "Chicken",
-        "Spices",
-        "Onions"
-      ]
+      "ingredients": ["Rice", "Chicken", "Spices", "Onions"]
     },
     {
       "id": "2",
@@ -39,12 +34,7 @@
       "calories": "700 kcal",
       "origin": "Italy",
       "famousFor": "Cheese and toppings",
-      "ingredients": [
-        "Cheese",
-        "Tomato",
-        "Flour",
-        "Olives"
-      ]
+      "ingredients": ["Cheese", "Tomato", "Flour", "Olives"]
     },
     {
       "id": "3",
@@ -58,12 +48,105 @@
       "calories": "550 kcal",
       "origin": "America",
       "famousFor": "Juicy patty",
-      "ingredients": [
-        "Bun",
-        "Patty",
-        "Cheese",
-        "Lettuce"
-      ]
+      "ingredients": ["Bun", "Patty", "Cheese", "Lettuce"]
+    },
+    {
+      "id": "4",
+      "name": "Dosa",
+      "cuisine": "Indian",
+      "category": "Breakfast",
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976",
+      "description": "South Indian crispy dosa served with chutney and sambar.",
+      "rating": 4.9,
+      "price": 120,
+      "calories": "300 kcal",
+      "origin": "South India",
+      "famousFor": "Crispy breakfast",
+      "ingredients": ["Rice Batter", "Urad Dal", "Oil", "Chutney"]
+    },
+    {
+      "id": "5",
+      "name": "Pasta",
+      "cuisine": "Italian",
+      "category": "Main Course",
+      "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9",
+      "description": "Creamy pasta with cheese and herbs.",
+      "rating": 4.5,
+      "price": 299,
+      "calories": "520 kcal",
+      "origin": "Italy",
+      "famousFor": "Creamy sauce",
+      "ingredients": ["Pasta", "Cheese", "Cream", "Herbs"]
+    },
+    {
+      "id": "6",
+      "name": "Sushi",
+      "cuisine": "Japanese",
+      "category": "Main Course",
+      "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c",
+      "description": "Traditional Japanese sushi rolls.",
+      "rating": 4.8,
+      "price": 499,
+      "calories": "350 kcal",
+      "origin": "Japan",
+      "famousFor": "Rice and seafood rolls",
+      "ingredients": ["Rice", "Seaweed", "Fish", "Vegetables"]
+    },
+    {
+      "id": "7",
+      "name": "Fried Rice",
+      "cuisine": "Chinese",
+      "category": "Main Course",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b",
+      "description": "Chinese fried rice with vegetables.",
+      "rating": 4.4,
+      "price": 180,
+      "calories": "450 kcal",
+      "origin": "China",
+      "famousFor": "Quick rice meal",
+      "ingredients": ["Rice", "Vegetables", "Soy Sauce", "Spring Onion"]
+    },
+    {
+      "id": "8",
+      "name": "Ice Cream",
+      "cuisine": "Dessert",
+      "category": "Dessert",
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb",
+      "description": "Cold and creamy ice cream.",
+      "rating": 4.9,
+      "price": 99,
+      "calories": "250 kcal",
+      "origin": "Global",
+      "famousFor": "Sweet frozen dessert",
+      "ingredients": ["Milk", "Cream", "Sugar", "Flavour"]
+    },
+    {
+      "id": "9",
+      "name": "Chicken Shawarma",
+      "cuisine": "Arabic",
+      "category": "Fast Food",
+      "image": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783",
+      "description": "Grilled chicken wrapped in pita bread.",
+      "rating": 4.7,
+      "price": 220,
+      "calories": "480 kcal",
+      "origin": "Middle East",
+      "famousFor": "Wrapped grilled chicken",
+      "ingredients": ["Chicken", "Pita Bread", "Garlic Sauce", "Vegetables"]
+    },
+    {
+      "id": "10",
+      "name": "Chocolate Cake",
+      "cuisine": "Dessert",
+      "category": "Dessert",
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+      "description": "Rich chocolate layered cake.",
+      "rating": 4.8,
+      "price": 150,
+      "calories": "420 kcal",
+      "origin": "Global",
+      "famousFor": "Chocolate layers",
+      "ingredients": ["Chocolate", "Flour", "Sugar", "Cream"]
     }
   ],
   "orders": []
