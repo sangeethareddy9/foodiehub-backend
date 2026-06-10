@@ -5,36 +5,6 @@
       "name": "sangeetha",
       "email": "sangeetha@gmail.com",
       "password": "123456"
-    },
-    {
-      "name": "sangeetha",
-      "email": "sangeethachirla9@gmail.com",
-      "password": "987654",
-      "id": "mvJ2LzcInrw"
-    },
-    {
-      "name": "sangeetha",
-      "email": "sangeethachirla9@gmail.com",
-      "password": "123456",
-      "id": "wObIpMegrk4"
-    },
-    {
-      "name": "sangeetha",
-      "email": "sangeethachirla9@gmail.com",
-      "password": "sangeetha@12",
-      "id": "u3PDEEJAGV0"
-    },
-    {
-      "name": "sangeetha",
-      "email": "sangeethachirla9@gmail.com",
-      "password": "123456",
-      "id": "lY50V2k9U_s"
-    },
-    {
-      "name": "sangeetha",
-      "email": "sangeethachirla9@gmail.com",
-      "password": "Sanreddy@12",
-      "id": "ck8NBDKMgV8"
     }
   ],
   "foods": [
@@ -96,5 +66,5 @@
       ]
     }
   ],
-  "$schema": "./node_modules/json-server/schema.json"
+  "orders": []
 }
